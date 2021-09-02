@@ -6,8 +6,12 @@ import "./styles.css";
 const Homepage = () => {
     return (
         <div>
-            This is from the homepage
-            
+            <h1 id="welcome">Welcome to the homepage!</h1>
+            <h1 id="About">About the Conference</h1>
+            <h1 id="registration">Registration</h1>
+            <h1 id="blog">Blog</h1>
+            <h1 id="sponsors">Sponsors</h1>
+            <h1 id="contact">Contact</h1>
         </div>
     )
 }
